@@ -77,7 +77,7 @@ O **simulador 2** apresenta um sistema capaz de medir a distância que se encont
 
 - **PERSONALIZAÇÃO:**<br>
 ![FOTO](assets/personalize-2.png) <br>
-*Para alterar valores nessa simulação, é importante saber que, dentro da função "Loop()", "int time =" representa o tempo de duração de um bipe do buzzer, "cm[0] significa a distância em centímetros (cm) e o "buzzer.sound()" permite ajustar a tonalidade do bipe desejado (No caso, toca-se a nota Dó na quinta oitava).*
+*Para alterar valores nessa área do código, é importante saber que, dentro da função "Loop()", "int time =" representa o tempo de duração de um bipe do buzzer, "cm[0] significa a distância em centímetros (cm) e o "buzzer.sound()" permite ajustar a tonalidade do bipe desejado (No caso, toca-se a nota Dó na quinta oitava).*
 
 
 
