@@ -34,7 +34,7 @@ O **simulador 1** tem um sistema que, de acordo com a temperatura e umidade do a
 
 - **DHT22:** <br>
 ![FOTO](assets/dht22.png) <br>
-*O sensor DHT22 é o responsável por medir temperatura e umidade na simulação, permitindo alterar essas medidas ao clicar diretamente nele com o mouse.*
+*O sensor DHT22 é o responsável por medir temperatura e umidade do ambiente, permitindo alterar essas medidas na simulação ao clicar diretamente nele com o mouse.*
 <br>
 <br>
 
