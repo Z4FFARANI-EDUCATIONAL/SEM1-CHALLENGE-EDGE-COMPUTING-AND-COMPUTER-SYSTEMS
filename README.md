@@ -53,7 +53,7 @@ O **simulador 1** tem um sistema que, de acordo com a temperatura e umidade do a
 
 
 ## INSTRUÇÕES DE USO - SIMULADOR 2
-O **simulador 2** apresenta um sistema capaz de medir a distância que se encontra de um objeto a sua frente. Dependendo da distância, um LED RGB é ligado (altera seus níveis mudando a coloração), diferentes outros LEDs são acionados e um buzzer é ativado/desativado.
+O **simulador 2** apresenta um sistema capaz de medir a distância que se encontra de um objeto à sua frente. Dependendo da distância, um LED RGB é ligado (altera seus níveis mudando a coloração), diferentes outros LEDs são acionados e um buzzer é ativado/desativado.
 
 - **CÓDIGOS FUNDAMENTAIS:** <br>
 ![FOTO](assets/setup-2.png) <br>
