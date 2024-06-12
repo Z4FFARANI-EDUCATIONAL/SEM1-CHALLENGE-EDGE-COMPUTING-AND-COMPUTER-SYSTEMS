@@ -71,7 +71,7 @@ O **simulador 2** apresenta um sistema capaz de medir a distância que se encont
 ![FOTO](assets/led-green.png) <br>
 ![FOTO](assets/led-blue.png) <br>
 ![FOTO](assets/led-red.png) <br>
-*Conforme a distância é setada no sensor HC-SR04, o padrão de ativação dos LEDs se altera. Caso a distância esteja entre 200 e 300cm, o buzzer é acionado (tocando 3 bipes intervalados).*
+*Conforme a distância é setada no sensor HC-SR04, o padrão de ativação dos LEDs se altera. Caso a distância esteja entre 200cm e 300cm, o buzzer é acionado (tocando 3 bipes intervalados).*
 <br>
 <br>
 
