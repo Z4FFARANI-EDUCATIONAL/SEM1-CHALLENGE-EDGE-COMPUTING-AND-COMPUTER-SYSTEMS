@@ -57,7 +57,7 @@ O **simulador 2** apresenta um sistema capaz de medir a distância que se encont
 
 - **CÓDIGOS FUNDAMENTAIS:** <br>
 ![FOTO](assets/setup-2.png) <br>
-*Assim como no **simulador 1**, aqui se encontra o código de inclusão de bibliotecas. No mais, observa-se sintaxes personalizadas das bibliotecas "Buzzer.h" e "HCSR04.h" que declaram os pinos que conectam os sensores, variáveis constantes e, na função de inicialização, códigos de ativação dos sensores mais declarações de LEDs em respectivos pinos.*
+*Assim como no **simulador 1**, aqui se encontra o código de inclusão de bibliotecas. No mais, observa-se sintaxes personalizadas das bibliotecas "Buzzer.h" e "HCSR04.h" (que declaram os pinos que conectam os sensores), variáveis constantes e, na função de inicialização, códigos de ativação dos sensores mais declarações de LEDs em respectivos pinos.*
 <br>
 <br>
 
