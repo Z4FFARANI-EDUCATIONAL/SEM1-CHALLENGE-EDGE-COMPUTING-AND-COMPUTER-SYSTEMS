@@ -123,7 +123,7 @@ Para a construção do **simulador 2**, serão necessários:
 ## IMPLEMENTAÇÃO
 ![FOTO](assets/cockpit-1.png) <br>
 ![FOTO](assets/cockpit-2.png) <br>
-*Pensamos em instalar os simuladores no cockpit dos carros de Fórmula E, mais especificamente em áreas próximas ao console para que o piloto visualize-os e usufrua ao seu favor. A parte de cabeamento do **simulador 1** se encontraria na lateral interna esquerda, enquanto a do **simulador 2**, na frente interna. Para energizá-los, utilizaria-se da bateria do próprio carro, já que ambos se tratam de ferramentas estratégicas. Assim, uma maior competição, interação e imersão durante as corridas será proporcionada.*
+*Pensamos em instalar os simuladores no cockpit dos carros de Fórmula E, mais especificamente em áreas próximas ao console para que o piloto visualize-os e usufrua ao seu favor. A parte de cabeamento do **simulador 1** se encontraria na lateral interna esquerda, enquanto a do **simulador 2**, na frente interna (Ambos não acompanhariam placa de ensaio). Para energizá-los, utilizaria-se da bateria do próprio carro, já que ambos se tratam de ferramentas estratégicas. Assim, uma maior competição, interação e imersão durante as corridas será proporcionada.*
 
 
 
