@@ -10,7 +10,7 @@
 - **[SIMULADOR 1](https://wokwi.com/projects/400327781735471105)** <br>
 - **[SIMULADOR 2](https://wokwi.com/projects/400327855929569281)** <br>
   
-- **[VÍDEO EXPLICATIVO](https://drive.google.com/file/d/1Aj_cC1QACjrZxEltwA77N0MsVcR4OIxI/view?usp=sharing)**
+- **[VÍDEO EXPLICATIVO](https://youtu.be/EPC9mj6DbeU)**
 
 
 
