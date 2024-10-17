@@ -135,7 +135,7 @@ Os preços dos componentes estão aproximados e foram registrados no dia **12/06
 
 O subtópico "PERSONALIZAÇÃO" mostra sugestões de modificação para aqueles com pouco conhecimento em codificação Arduino experimentar sem afetar o código-fonte. Se não é o seu caso, não é necessário limitar-se em alterar apenas o que foi sublinhado de amarelo nas imagens. 
 
-As bibliotecas escolhidas têm recursos ainda mais complexos a serem adicionados. Caso deseje explorá-las ainda mais, consulte-as (localizadas na pasta: **libraries**) ou pesquise por similares. O que vale é aprender. 
+As bibliotecas escolhidas têm recursos ainda mais complexos a serem adicionados.
 
 
 
