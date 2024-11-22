@@ -25,7 +25,7 @@ A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](
 ## INSTRUÇÕES DE USO | SIMULADOR 1
 O simulador 1 tem um sistema que, de acordo com a temperatura e umidade do ambiente, recomenda diferentes estratégias competitivas a serem aderidas por um piloto de Fórmula E durante uma corrida. Ou seja, dependendo das condições climáticas, informações específicas são transmitidas em um display.
 
-**Exemplo:** em caso de clima quente com pouca umidade, no display, aparecerão mensagens que recomendam a hidratação do piloto e a ativação do sistema de ventilação do seu carro.
+Exemplo: em caso de clima quente com pouca umidade, no display, aparecerão mensagens que recomendam a hidratação do piloto e a ativação do sistema de ventilação do seu carro.
 
 - **CÓDIGOS FUNDAMENTAIS:** <br>
 ![FOTO](assets/setup-1.png) <br>
@@ -54,7 +54,7 @@ O simulador 1 tem um sistema que, de acordo com a temperatura e umidade do ambie
 
 
 ## INSTRUÇÕES DE USO | SIMULADOR 2
-O **simulador 2** apresenta um sistema capaz de medir a distância que se encontra de um objeto à sua frente. Dependendo da distância, um LED RGB é ligado (altera seus níveis mudando a coloração), diferentes outros LEDs são ligados e um buzzer é acionado ou não.
+O simulador 2 apresenta um sistema capaz de medir a distância que se encontra de um objeto à sua frente. Dependendo da distância, um LED RGB é ligado (altera seus níveis mudando a coloração), diferentes outros LEDs são ligados e um buzzer é acionado ou não.
 
 - **CÓDIGOS FUNDAMENTAIS:** <br>
 ![FOTO](assets/setup-2.png) <br>
