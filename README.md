@@ -18,12 +18,12 @@
 ![FOTO](assets/sim-1.png)
 ![FOTO](assets/sim-2.png)
 
-A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](https://www.fiap.com.br)**, busca popularizar a **Fórmula E** por meio de soluções tecnológicas práticas e interativas. Portanto, elaboramos simuladores que se encaixam nesses quesitos, destinados às competições de **Fórmula E** através da análise de dados, display de informações relevantes e ativação de componentes.
+A **[Tech Mahindra](https://www.techmahindra.com)**, em parceria com a **[FIAP](https://www.fiap.com.br)**, busca popularizar a Fórmula E por meio de soluções tecnológicas práticas e interativas. Portanto, elaboramos simuladores que se encaixam nesses quesitos, destinados às competições de Fórmula E através da análise de dados, display de informações relevantes e ativação de componentes.
 
 
 
-## INSTRUÇÕES DE USO - SIMULADOR 1
-O **simulador 1** tem um sistema que, de acordo com a temperatura e umidade do ambiente, recomenda diferentes estratégias competitivas a serem aderidas por um piloto de Fórmula E durante uma corrida. Ou seja, dependendo das condições climáticas, informações específicas são transmitidas em um display.
+## INSTRUÇÕES DE USO | SIMULADOR 1
+O simulador 1 tem um sistema que, de acordo com a temperatura e umidade do ambiente, recomenda diferentes estratégias competitivas a serem aderidas por um piloto de Fórmula E durante uma corrida. Ou seja, dependendo das condições climáticas, informações específicas são transmitidas em um display.
 
 **Exemplo:** em caso de clima quente com pouca umidade, no display, aparecerão mensagens que recomendam a hidratação do piloto e a ativação do sistema de ventilação do seu carro.
 
@@ -39,7 +39,7 @@ O **simulador 1** tem um sistema que, de acordo com a temperatura e umidade do a
 <br>
 <br>
 
-- **LCD (LIQUID CRYSTAL DISPLAY):** <br>
+- **LCD (DISPLAY DE CRISTAL LÍQUIDO):** <br>
 ![FOTO](assets/alert-1.png) <br>
 ![FOTO](assets/alert-2.png) <br>
 ![FOTO](assets/alert-3.png) <br>
@@ -53,7 +53,7 @@ O **simulador 1** tem um sistema que, de acordo com a temperatura e umidade do a
 
 
 
-## INSTRUÇÕES DE USO - SIMULADOR 2
+## INSTRUÇÕES DE USO | SIMULADOR 2
 O **simulador 2** apresenta um sistema capaz de medir a distância que se encontra de um objeto à sua frente. Dependendo da distância, um LED RGB é ligado (altera seus níveis mudando a coloração), diferentes outros LEDs são ligados e um buzzer é acionado ou não.
 
 - **CÓDIGOS FUNDAMENTAIS:** <br>
@@ -83,14 +83,14 @@ O **simulador 2** apresenta um sistema capaz de medir a distância que se encont
 
 
 ## REQUISITOS
-Para a implementação e execução dos códigos dos **simuladores** (localizados na pasta: **src**) no Arduino IDE, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: **libraries**) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
+Para a implementação e execução dos códigos dos simuladores (localizados na pasta: `src`) no Arduino IDE, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: `libraries`) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
 
 - **[INSTALAÇÃO DE BIBLIOTECAS NO ARDUINO IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)**
 - **[INSTALAÇÃO DO ARDUINO IDE](https://www.arduino.cc/en/software)**
 <br>
 <br>
 
-Para a construção do **simulador 1**, serão necessários:
+Para a construção do simulador 1, serão necessários:
 
 - **1x** Cabo USB para Arduino Uno - **R$12,00**
 - **1x** Arduino Uno R3 [(Documentação)](https://docs.arduino.cc/hardware/uno-rev3/) - **R$50,00**
@@ -104,13 +104,13 @@ Para a construção do **simulador 1**, serão necessários:
 <br>
 <br>
 
-Para a construção do **simulador 2**, serão necessários:
+Para a construção do simulador 2, serão necessários:
 
 - **1x** Cabo USB para Arduino Uno - **R$12,00**
 - **1x** Arduino Uno R3 [(Documentação)](https://docs.arduino.cc/hardware/uno-rev3/) - **R$50,00**
 - **1x** Sensor de distância ultrassônico HC-SR04 [(Documentação)](https://web.eece.maine.edu/zhu/book/lab/HC-SR04%20User%20Manual.pdf) - **R$13,00**
 - **1x** Piezoeletric buzzer ativo de 5V [(Documentação)](https://wiki-content.arduino.cc/documents/datasheets/PIEZO-PKM22EPPH4001-BO.pdf) - **R$4,00**
-- **1x** LED RGB de alto brilho de 5mm (Catodo comum) - **R$1,00**
+- **1x** LED RGB de alto brilho de 5mm (catodo comum) - **R$1,00**
 - **2x** LED verde difuso de 5mm - **R$0,50**
 - **2x** LED vermelho difuso de 5mm - **R$0,50**
 - **7x** Resistor de 220 Ω (ohms) - **R$14,00**
@@ -124,16 +124,16 @@ Para a construção do **simulador 2**, serão necessários:
 ## IMPLEMENTAÇÃO
 ![FOTO](assets/cockpit-1.png) <br>
 ![FOTO](assets/cockpit-2.png) <br>
-*Pensamos em instalar os simuladores nos cockpits dos carros da Fórmula E, mais especificamente em áreas próximas ao console para que o piloto visualize-os e usufrua ao seu favor. A parte de cabeamento do **simulador 1** se encontraria na lateral interna esquerda, enquanto a do **simulador 2**, na frente interna (Ambos não acompanhariam placa de ensaio). Para energizá-los, utilizaria-se da bateria do próprio carro, já que ambos se tratam de ferramentas estratégicas. Assim, uma maior competição, interação e imersão durante as corridas será proporcionada.*
+*Pensamos em instalar os simuladores nos cockpits dos carros da Fórmula E, mais especificamente em áreas próximas ao console para que o piloto visualize-os e usufrua ao seu favor. A parte de cabeamento do simulador 1 se encontraria na lateral interna esquerda, enquanto a do simulador 2, na frente interna (Ambos não acompanhariam placa de ensaio). Para energizá-los, utilizaria-se da bateria do próprio carro, já que ambos se tratam de ferramentas estratégicas. Assim, uma maior competição, interação e imersão durante as corridas será proporcionada.*
 
 
 
 ## OBSERVAÇÕES
-Os **simuladores** devem ser utilizados para propósitos experimentais! Não recomendamos o uso dos mesmos em projetos profissionais. Ademais, não nos responsabilizamos por eventuais danos.
+Os simuladores devem ser utilizados para propósitos experimentais! Não são recomendados em projetos profissionais.
 
-Os preços dos componentes estão aproximados e foram registrados no dia **12/06/2024**. Os componentes estão sujeitos a valorização ou desvalorização.
+Os preços dos componentes estão aproximados e foram registrados no dia 12/06/2024. Os componentes estão sujeitos a valorização ou desvalorização.
 
-O subtópico "PERSONALIZAÇÃO" mostra sugestões de modificação para aqueles com pouco conhecimento em codificação Arduino experimentar sem afetar o código-fonte. Se não é o seu caso, não é necessário limitar-se em alterar apenas o que foi sublinhado de amarelo nas imagens. 
+O subtópico "PERSONALIZAÇÃO" mostra sugestões de modificação para aqueles com pouco conhecimento em codificação Arduino experimentar sem afetar o código-fonte. Se não é o seu caso, não é necessário limitar-se em alterar apenas o que foi sublinhado de amarelo nas imagens.
 
 As bibliotecas escolhidas têm recursos ainda mais complexos a serem adicionados.
 
