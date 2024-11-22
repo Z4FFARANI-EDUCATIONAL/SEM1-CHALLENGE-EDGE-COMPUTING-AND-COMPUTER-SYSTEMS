@@ -133,7 +133,7 @@ Os simuladores devem ser utilizados para propósitos experimentais! Não são re
 
 Os preços dos componentes estão aproximados e foram registrados no dia 12/06/2024. Os componentes estão sujeitos a valorização ou desvalorização.
 
-O subtópico "PERSONALIZAÇÃO" mostra sugestões de modificação para aqueles com pouco conhecimento em codificação Arduino experimentar sem afetar o código-fonte. Se não é o seu caso, não é necessário limitar-se em alterar apenas o que foi sublinhado de amarelo nas imagens.
+O subtópico de personalização mostra sugestões de modificação para aqueles com pouco conhecimento em codificação Arduino experimentar sem afetar o código-fonte. Se não é o seu caso, não é necessário limitar-se em alterar apenas o que foi sublinhado de amarelo nas imagens.
 
 As bibliotecas escolhidas têm recursos ainda mais complexos a serem adicionados.
 
